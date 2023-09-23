@@ -1,0 +1,6 @@
+### Gopher Mono with ligatures 
+
+## installation
+`git clone https://github.com/ichthoth/lig-gophermono.git`
+
+This was made using Toxicfrogs Ligaturizer. Check it out [here](https://github.com/ToxicFrog/Ligaturizer).
